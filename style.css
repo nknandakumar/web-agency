@@ -1,0 +1,88 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 50px 50px 0 50px;
+  background-color:  #fcde67 ;
+  display: flex;
+  flex-direction: column;
+  min-height: 95vh;
+}
+.main {
+  flex: 1;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+footer {
+  text-align: right;
+  color: midnightblue;
+}
+
+.de{
+  color: rgb(26, 26, 150);
+}
+
+.tile-image{
+  width: 200px;
+float: left;
+  margin-right: 50px ;
+  float: left;
+  border-style: ridge;
+}
+.card-tex{
+  float: left;
+  text-align: justify;
+}
+.right{
+  float: right;
+}
+.left{
+
+border: solid black 3px;
+padding: 10px;
+margin:  10px;
+display: inline-block;
+width: 40%;
+background-color: #5bccf6;
+}
+
+
+.card-tex p{
+  text-align: justify;
+  float: right;
+  flex-wrap: wrap;
+}
+.right{
+  display: inline-block;
+  margin: 10px;
+border: solid black 3px;
+padding: 10px;
+display: inline-block;
+width: 40%;
+background-color: #5bccf6;
+}
+.card-title{
+  float: top;
+  flex: 0%;
+}
+ .logo{
+  background-color: black;
+  border-radius: 10px;
+  border: solid burlywood 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+ h1{
+  text-align: center;
+  background-color:#2272FF;
+padding: 10px 10px 10px 10px;
+  border :dashed  rgb(211, 215, 222)  10px ;
+  font-family: 'Libre Baskerville', serif;
+font-family: 'Monoton', cursive;
+  
+ }
+ .cute{
+  width: 200px;
+  height: 200px;
+
+ }
